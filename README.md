@@ -1,1 +1,3 @@
-this is my github pages page
+Github Read me file for B33fington
+============================
+
